@@ -6,3 +6,5 @@ from popular online websites including Github and geeksforgeeks to test our hypo
 fine-tune both models with C++ codes for Code Summarization as a model robustness check. Our results show that
 both CodeBERT and CodeT5 attain improved performance in C++ function summarization after fine-tuning. Generally, the
 CodeBERT model has better performance in summarizing C++ contexts.
+
+![](https://github.com/yan-055/code-summarization-using-nlp-models/blob/main/Source%20code%20to%20text.png)
