@@ -1,4 +1,4 @@
-# Code Summarization Using NLP Models
+# Using NLP Models to Summarize C++ Code
 In this project, we study the generalizability and robustness of pre-trained models such as CodeT5 and
 CodeBERT with C++ to check their generalizability and robustness for code summarization task. We collect C++ source
 codes with ground truth for the Code Summarization task using CodeBERT and CodeT5 models. We collect our data
